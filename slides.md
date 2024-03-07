@@ -27,7 +27,7 @@ this is a <span class="max-msg">message</span>.
 
 ---
 
-# Slide 4
+# Slide 4x
 
 Image test:
 
@@ -36,3 +36,11 @@ Image test:
 ![](assets/hookup.jpg)
 
 </div>
+
+---
+
+# Slide 5
+
+Smartypants typographic "processing" should be working---or should it?
+
+X---X--X---X's
