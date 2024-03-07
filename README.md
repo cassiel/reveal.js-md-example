@@ -10,6 +10,6 @@ Install Reveal.js from NPM:
 
 (or just `npm install` if checking out from GitHub.)
 
-Make sure the `data-markdown` attribute in `index.html` points to an existing Markdown file of slides, formatted as documented (https://revealjs.com/markdown/)[here].
+Make sure the `data-markdown` attribute in `index.html` points to an existing Markdown file of slides, formatted as documented [here](https://revealjs.com/markdown/).
 
 Fire up a local web server (with `python -m http.server` or some Node-based equivalent).
